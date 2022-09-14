@@ -1,0 +1,20 @@
+---
+wedding-agree: 1000
+Content-Profile: "Tên: {NAME}\n Giới Tính: {SEX}\n Ngày Sinh: ngày {DAY} Tháng {MONTH} năm {YEAR}\n Sở Thích: {INTERESTS}\n Bạn Có Muốn Ngỏ Lời Yêu Không ?\n Số Tiền Phí Cầu Hôn Là {AMOUNT} xu. "
+Content-ReQuest: "Bạn đã nhận được lời Cầu Hôn từ {NAME} là {SEX} sinh ngày: {DAY} Tháng {MONTH} năm {YEAR} hiện đã {AGR} có sở thích là {INTERESTS}" 
+Button: "{NAME} {AGR} "
+message:
+  successful: "Chúc Cặp đôi mới của server  {NAME} và {LOVER} Trăm năm hạng phúc và luôn luôn hòa thuận trong cuộc sống"
+  lover-yes: "{LOVER} đã chấp nhận Cầu Hôn Của Bạn"
+  refuse: "Đối Phương đã từ chối Yêu Cầu Của Bạn"
+  lover-onl: "{LOVERNAME} hiện đã online và ở {WORLD}"
+  player-onl: "{NAME} vừa vào server hãy dịch chuyển tới người ấy để tăng tình cảm"
+  lover-off: "{LOVER} hiện không online bạn đừng buồn nhé"
+  refuse-lover: "Bạn đã từ chối lời cầu hôn của {NAME}"
+  nomoney: "Bạn Không Có Đủ {AMOUNT} xu để gửi lời mời kết hôn"
+  Teleport-To-Lover: "Bạn đã được dịch chuyển tới người yêu của mình"
+  notp: "Hiện Tại Người yêu Bạn không Online hoặc đã afk"
+  Teleport-Lover: "Người yêu Bạn đã dịch chuyển tới bạn"
+  divorce: "Cặp Đôi {NAME} và {LOVER} đã quyết định chia tay mong cả 2 bên sẽ hạnh phúc với quyết định của mình"
+  Content-divorce: "{NAME} đã gửi yêu cầu chia tay với bạn, mong bạn suy nghĩ kĩ quyết định của mình"
+  
